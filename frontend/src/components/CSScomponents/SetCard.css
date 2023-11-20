@@ -1,0 +1,9 @@
+.set-card-image {
+  width: 100px; /* adjust as needed */
+  height: 100px; /* adjust as needed */
+  object-fit: contain; /* this will ensure the image covers the whole area without distortion */
+}
+
+.card {
+  height: 200px;
+}
